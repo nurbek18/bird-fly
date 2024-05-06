@@ -23,12 +23,10 @@
 ![图片](https://user-images.githubusercontent.com/61453232/124867165-215fbe80-dff0-11eb-99d9-306be7e22aa0.png)
 
 # 三  设计步骤
-## 1.素材准备
+## 1.素材准备(在以上的文件中我都提供了)
 
-仓库里本身有，还放了个网盘链接。
 
-网盘链接[https://pan.baidu.com/s/1QLUI9474auFzVt2YNVVwPw ](https://pan.baidu.com/s/1QLUI9474auFzVt2YNVVwPw)
-提取码：rikk
+
 
 
 ## 2.预备知识及其运用
